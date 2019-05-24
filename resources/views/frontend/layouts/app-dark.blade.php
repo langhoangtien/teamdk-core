@@ -1,6 +1,5 @@
 @include('frontend.includes.head')
-
-<body class="page-template-default page page-id-382 wp-embed-responsive masvideos-no-js  full-width">
+<body class="home page-template-default page page-id-343 wp-embed-responsive masvideos-no-js  full-width">
     <div id="page" class="hfeed site">
         <header id="site-header" class="site-header header-v1 desktop-header stick-this light" role="banner" style="">
             <div class="container-fluid">
@@ -18,8 +17,8 @@
                                         <ul id="menu-off-canvas-menu" class="offcanvas-nav yamm">
                                             <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5565" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown active menu-item-5565 nav-item"><a title="Home" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link">Home</a>
                                                 <ul class="dropdown-menu" role="menu">
-                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5561 nav-item"><a title="Home v1" href="https://demo2.madrasthemes.com/vodi-demos/main/" class="dropdown-item">Home v1</a></li>
-                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5562" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item active menu-item-5562 nav-item"><a title="Home v2" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" class="dropdown-item">Home v2</a></li>
+                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5561" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-343 current_page_item active menu-item-5561 nav-item"><a title="Home v1" href="https://demo2.madrasthemes.com/vodi-demos/main/" class="dropdown-item">Home v1</a></li>
+                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5562 nav-item"><a title="Home v2" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" class="dropdown-item">Home v2</a></li>
                                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563 nav-item"><a title="Home v3" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v3/" class="dropdown-item">Home v3</a></li>
                                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-5564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5564 nav-item"><a title="Home v5" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v5/" class="dropdown-item">Home v5</a></li>
                                                 </ul>
@@ -68,27 +67,27 @@
                                         <stop offset="1" style="stop-color:#2C9CD4" /> </linearGradient>
                                     <g class="vodi-gr">
                                         <path class="vodi-svg0" d="M72.8,12.7c0-2.7,0-1.8,0-4.4c0-0.9,0-1.8,0-2.8C73,3,74.7,1.4,77,1.4c2.3,0,4.1,1.8,4.2,4.2c0,1,0,2.1,0,3.1
-c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
-c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
-c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
-M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
-C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
-C34.4,28.2,36.7,30.6,39.9,30.6z
-M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
-c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
-c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
-M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
-c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
-C90.9,25.1,90.9,25.1,90.9,25.1z
-M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
+											c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
+											c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
+											c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
+											M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
+											C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
+											C34.4,28.2,36.7,30.6,39.9,30.6z
+											M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
+											c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
+											c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
+											M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
+											c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
+											C90.9,25.1,90.9,25.1,90.9,25.1z
+											M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
                                 </svg>
                             </a>
                         </div>
                         <div class="site_header__primary-nav">
                             <ul id="menu-primary-menu" class="nav yamm">
-                                <li id="menu-item-5554" class="yamm-tfw menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-has-children menu-item-5554"><a href="https://demo2.madrasthemes.com/vodi-demos/main/">Browse</a>
+                                <li id="menu-item-5554" class="yamm-tfw menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-5554"><a href="https://demo2.madrasthemes.com/vodi-demos/main/" aria-current="page">Browse</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-5213" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5213"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=pages-megamenu">Pages Megamenu</a>
+                                        <li id="menu-item-5213" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5213"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=pages-megamenu">Pages Megamenu</a>
                                             <div class="yamm-content">
                                                 <div class="wp-block-columns has-3-columns">
                                                     <div class="wp-block-column">
@@ -141,10 +140,108 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                         </li>
                                     </ul>
                                 </li>
-                              
+                                <li id="menu-item-5553" class="yamm-fw menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-5553"><a href="https://demo2.madrasthemes.com/vodi-demos/main/" aria-current="page">Home</a>
+                                    <ul class="sub-menu">
+                                        <li id="menu-item-5215" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5215"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=home">Home</a>
+                                            <div class="yamm-content">
+                                                <div class="wp-block-columns has-5-columns">
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/main/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5794" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1.jpg" alt="" class="wp-image-5794" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-1-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Home v1</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5726" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14.jpg" alt="" class="wp-image-5726" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-14-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Home v2</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/main/home-v3/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5749" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15.jpg" alt="" class="wp-image-5749" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-15-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Home v3</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-sports/"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-6036" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4.jpg" alt="" class="wp-image-6036" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/05/menu-4-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Home v4</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/main/home-v5/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5756" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16.jpg" alt="" class="wp-image-5756" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-16-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Home v5</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                </div>
+                                                <div class="wp-block-columns has-5-columns">
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-prime/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5782" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18.jpg" alt="" class="wp-image-5782" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-18-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Vodi Prime﻿</strong>
+                                                                <br><strong>Home v6 ( Light )</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-prime-dark/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5783" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19.jpg" alt="" class="wp-image-5783" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-19-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>﻿Vodi Prime</strong>
+                                                                <br><strong>Home v7 ( Dark )</strong></figcaption>
+                                                        </figure>
+                                                        <p></p>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-stream/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5768" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17.jpg" alt="" class="wp-image-5768" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-17-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Vodi Stream </strong>
+                                                                <br><strong>Home v8</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-tube/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5612" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12.jpg" alt="" class="wp-image-5612" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-12-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Vodi Tube</strong>
+                                                                <br><strong>Home v9 ( Light )</strong></figcaption>
+                                                        </figure>
+                                                    </div>
+                                                    <div class="wp-block-column">
+                                                        <figure class="wp-block-image">
+                                                            <a href="https://demo2.madrasthemes.com/vodi-demos/vodi-tube-dark/" target="_blank" rel="noreferrer noopener"><img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201%201'%3E%3C/svg%3E" alt="" class="wp-image-5613" data-lazy-srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13-150x150.jpg 150w" data-lazy-sizes="(max-width: 260px) 100vw, 260px" data-lazy-src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13.jpg" />
+                                                                <noscript><img src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13.jpg" alt="" class="wp-image-5613" srcset="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13.jpg 260w, https://demo2.madrasthemes.com/vodi-demos/main/wp-content/uploads/sites/2/2019/04/menu-13-150x150.jpg 150w" sizes="(max-width: 260px) 100vw, 260px" /></noscript>
+                                                            </a>
+                                                            <figcaption><strong>Vodi Tube</strong>
+                                                                <br><strong>Home v10 ( Dark )</strong></figcaption>
+                                                        </figure>
+                                                        <p></p>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
                                 <li id="menu-item-5551" class="yamm-fw menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5551"><a href="https://demo2.madrasthemes.com/vodi-demos/main/movies/">Movies</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-5204" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5204"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=movies-megamenu">Movies Megamenu</a>
+                                        <li id="menu-item-5204" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5204"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=movies-megamenu">Movies Megamenu</a>
                                             <div class="yamm-content">
                                                 <div class="wp-block-columns has-3-columns">
                                                     <div class="wp-block-column">
@@ -211,7 +308,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                     </div>
                                                     <div class="wp-block-column">
                                                         <h2>Movie Trailer</h2>
-                                                        <section id="section-videos-carousel-flex-header-5ce7ea0846404" class="home-section section-videos-carousel-flex-header style-2" style="padding-left: 40px; padding-right: 40px; ">
+                                                        <section id="section-videos-carousel-flex-header-5ce68d1856059" class="home-section section-videos-carousel-flex-header style-2" style="padding-left: 40px; padding-right: 40px; ">
                                                             <div class="container">
                                                                 <div class="home-section__inner">
                                                                     <div class="section-videos-carousel__carousel">
@@ -231,7 +328,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                                                                 <div class="video__info">
                                                                                                     <div class="video__info--head"><a href="https://demo2.madrasthemes.com/vodi-demos/main/video/anderson-fights-his-way-to-glory/" class="masvideos-LoopVideo-link masvideos-loop-video__link video__link"><h3 class="masvideos-loop-video__title  video__title">Anderson Fights His Way to Glory</h3></a>
                                                                                                         <div class="video__views-meta">
-                                                                                                            <div class="vodi-jetpack-views"><span>40 views</span></div>
+                                                                                                            <div class="vodi-jetpack-views"><span>39 views</span></div>
                                                                                                             <div class="video__meta"><span class="video__meta--last-update">3 months ago</span></div>
                                                                                                         </div>
                                                                                                     </div>
@@ -291,7 +388,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                                                                 <div class="video__info">
                                                                                                     <div class="video__info--head"><a href="https://demo2.madrasthemes.com/vodi-demos/main/video/spain-vs-netherlands/" class="masvideos-LoopVideo-link masvideos-loop-video__link video__link"><h3 class="masvideos-loop-video__title  video__title">Spain vs Netherlands</h3></a>
                                                                                                         <div class="video__views-meta">
-                                                                                                            <div class="vodi-jetpack-views"><span>27 views</span></div>
+                                                                                                            <div class="vodi-jetpack-views"><span>25 views</span></div>
                                                                                                             <div class="video__meta"><span class="video__meta--last-update">3 months ago</span></div>
                                                                                                         </div>
                                                                                                     </div>
@@ -323,7 +420,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                                                                 <div class="video__info">
                                                                                                     <div class="video__info--head"><a href="https://demo2.madrasthemes.com/vodi-demos/main/video/steyn-betters-kapil-arsenal-lose/" class="masvideos-LoopVideo-link masvideos-loop-video__link video__link"><h3 class="masvideos-loop-video__title  video__title">Steyn Betters Kapil, Arsenal Lose</h3></a>
                                                                                                         <div class="video__views-meta">
-                                                                                                            <div class="vodi-jetpack-views"><span>25 views</span></div>
+                                                                                                            <div class="vodi-jetpack-views"><span>23 views</span></div>
                                                                                                             <div class="video__meta"><span class="video__meta--last-update">3 months ago</span></div>
                                                                                                         </div>
                                                                                                     </div>
@@ -387,7 +484,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                 </li>
                                 <li id="menu-item-5552" class="yamm-fw menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-5552"><a href="https://demo2.madrasthemes.com/vodi-demos/main/tv-shows/">TV Shows</a>
                                     <ul class="sub-menu">
-                                        <li id="menu-item-5206" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5206"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=tv-shows-megamenu">TV Shows Megamenu</a>
+                                        <li id="menu-item-5206" class="menu-item menu-item-type-post_type menu-item-object-mas_static_content menu-item-5206"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/?mas_static_content=tv-shows-megamenu">TV Shows Megamenu</a>
                                             <div class="yamm-content">
                                                 <div class="wp-block-columns has-2-columns">
                                                     <div class="wp-block-column">
@@ -406,7 +503,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                     </div>
                                                     <div class="wp-block-column">
                                                         <h2>Picked for You: Madras Themes</h2>
-                                                        <section id="section-tv-show-carousel-5ce7ea084e116" class="home-section section-tv-show-carousel">
+                                                        <section id="section-tv-show-carousel-5ce68d185f8f0" class="home-section section-tv-show-carousel">
                                                             <div class="container">
                                                                 <div class="section-tv-show-carousel__inner">
                                                                     <div class="tv-show-carousel">
@@ -924,8 +1021,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                     <div class="site-header__left">
                         <div class="site-header__search">
                             <form role="search" method="get" class="search-form" action="https://demo2.madrasthemes.com/vodi-demos/main/">
-                                <label class="screen-reader-text" for="search-form-5ce7ea085d4b1">Search for:</label>
-                                <input type="search" id="search-form-5ce7ea085d4b1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                <label class="screen-reader-text" for="search-form-5ce68d189c93e">Search for:</label>
+                                <input type="search" id="search-form-5ce68d189c93e" class="search-field" placeholder="Search &hellip;" value="" name="s" />
                                 <button type="submit" class="search-submit">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18">
                                         <path d="M7 0C11-0.1 13.4 2.1 14.6 4.9 15.5 7.1 14.9 9.8 13.9 11.4 13.7 11.7 13.6 12 13.3 12.2 13.4 12.5 14.2 13.1 14.4 13.4 15.4 14.3 16.3 15.2 17.2 16.1 17.5 16.4 18.2 16.9 18 17.5 17.9 17.6 17.9 17.7 17.8 17.8 17.2 18.3 16.7 17.8 16.4 17.4 15.4 16.4 14.3 15.4 13.3 14.3 13 14.1 12.8 13.8 12.5 13.6 12.4 13.5 12.3 13.3 12.2 13.3 12 13.4 11.5 13.8 11.3 14 10.7 14.4 9.9 14.6 9.2 14.8 8.9 14.9 8.6 14.9 8.3 14.9 8 15 7.4 15.1 7.1 15 6.3 14.8 5.6 14.8 4.9 14.5 2.7 13.6 1.1 12.1 0.4 9.7 0 8.7-0.2 7.1 0.2 6 0.3 5.3 0.5 4.6 0.9 4 1.8 2.4 3 1.3 4.7 0.5 5.2 0.3 5.7 0.2 6.3 0.1 6.5 0 6.8 0.1 7 0ZM7.3 1.5C7.1 1.6 6.8 1.5 6.7 1.5 6.2 1.6 5.8 1.7 5.4 1.9 3.7 2.5 2.6 3.7 1.9 5.4 1.7 5.8 1.7 6.2 1.6 6.6 1.4 7.4 1.6 8.5 1.8 9.1 2.4 11.1 3.5 12.3 5.3 13 5.9 13.3 6.6 13.5 7.5 13.5 7.7 13.5 7.9 13.5 8.1 13.5 8.6 13.4 9.1 13.3 9.6 13.1 11.2 12.5 12.4 11.4 13.1 9.8 13.6 8.5 13.6 6.6 13.1 5.3 12.2 3.1 10.4 1.5 7.3 1.5Z" />
@@ -964,8 +1061,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                         <ul id="menu-off-canvas-menu-1" class="offcanvas-nav yamm">
                                             <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children dropdown active menu-item-5565 nav-item"><a title="Home" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link">Home</a>
                                                 <ul class="dropdown-menu" role="menu">
-                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5561 nav-item"><a title="Home v1" href="https://demo2.madrasthemes.com/vodi-demos/main/" class="dropdown-item">Home v1</a></li>
-                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item active menu-item-5562 nav-item"><a title="Home v2" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" class="dropdown-item">Home v2</a></li>
+                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-343 current_page_item active menu-item-5561 nav-item"><a title="Home v1" href="https://demo2.madrasthemes.com/vodi-demos/main/" class="dropdown-item">Home v1</a></li>
+                                                    <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5562 nav-item"><a title="Home v2" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" class="dropdown-item">Home v2</a></li>
                                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5563 nav-item"><a title="Home v3" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v3/" class="dropdown-item">Home v3</a></li>
                                                     <li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5564 nav-item"><a title="Home v5" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v5/" class="dropdown-item">Home v5</a></li>
                                                 </ul>
@@ -1014,19 +1111,19 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                         <stop offset="1" style="stop-color:#2C9CD4" /> </linearGradient>
                                     <g class="vodi-gr">
                                         <path class="vodi-svg0" d="M72.8,12.7c0-2.7,0-1.8,0-4.4c0-0.9,0-1.8,0-2.8C73,3,74.7,1.4,77,1.4c2.3,0,4.1,1.8,4.2,4.2c0,1,0,2.1,0,3.1
-c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
-c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
-c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
-M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
-C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
-C34.4,28.2,36.7,30.6,39.9,30.6z
-M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
-c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
-c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
-M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
-c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
-C90.9,25.1,90.9,25.1,90.9,25.1z
-M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
+																						c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
+																						c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
+																						c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
+																						M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
+																						C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
+																						C34.4,28.2,36.7,30.6,39.9,30.6z
+																						M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
+																						c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
+																						c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
+																						M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
+																						c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
+																						C90.9,25.1,90.9,25.1,90.9,25.1z
+																						M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
                                 </svg>
                             </a>
                         </div>
@@ -1042,8 +1139,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                 <ul class="dropdown-menu">
                                     <li>
                                         <form role="search" method="get" class="search-form" action="https://demo2.madrasthemes.com/vodi-demos/main/">
-                                            <label class="screen-reader-text" for="search-form-5ce7ea085f2c1">Search for:</label>
-                                            <input type="search" id="search-form-5ce7ea085f2c1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+                                            <label class="screen-reader-text" for="search-form-5ce68d18a80e7">Search for:</label>
+                                            <input type="search" id="search-form-5ce68d18a80e7" class="search-field" placeholder="Search &hellip;" value="" name="s" />
                                             <button type="submit" class="search-submit">
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18">
                                                     <path d="M7 0C11-0.1 13.4 2.1 14.6 4.9 15.5 7.1 14.9 9.8 13.9 11.4 13.7 11.7 13.6 12 13.3 12.2 13.4 12.5 14.2 13.1 14.4 13.4 15.4 14.3 16.3 15.2 17.2 16.1 17.5 16.4 18.2 16.9 18 17.5 17.9 17.6 17.9 17.7 17.8 17.8 17.2 18.3 16.7 17.8 16.4 17.4 15.4 16.4 14.3 15.4 13.3 14.3 13 14.1 12.8 13.8 12.5 13.6 12.4 13.5 12.3 13.3 12.2 13.3 12 13.4 11.5 13.8 11.3 14 10.7 14.4 9.9 14.6 9.2 14.8 8.9 14.9 8.6 14.9 8.3 14.9 8 15 7.4 15.1 7.1 15 6.3 14.8 5.6 14.8 4.9 14.5 2.7 13.6 1.1 12.1 0.4 9.7 0 8.7-0.2 7.1 0.2 6 0.3 5.3 0.5 4.6 0.9 4 1.8 2.4 3 1.3 4.7 0.5 5.2 0.3 5.7 0.2 6.3 0.1 6.5 0 6.8 0.1 7 0ZM7.3 1.5C7.1 1.6 6.8 1.5 6.7 1.5 6.2 1.6 5.8 1.7 5.4 1.9 3.7 2.5 2.6 3.7 1.9 5.4 1.7 5.8 1.7 6.2 1.6 6.6 1.4 7.4 1.6 8.5 1.8 9.1 2.4 11.1 3.5 12.3 5.3 13 5.9 13.3 6.6 13.5 7.5 13.5 7.7 13.5 7.9 13.5 8.1 13.5 8.6 13.4 9.1 13.3 9.6 13.1 11.2 12.5 12.4 11.4 13.1 9.8 13.6 8.5 13.6 6.6 13.1 5.3 12.2 3.1 10.4 1.5 7.3 1.5Z" />
@@ -1068,11 +1165,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                 </div>
             </div>
         </header>
-
-        <!-- CONTENT -->
         @yield('content')
-        <!-- END_CONTENT -->
-        <footer id="colophon" class="site-footer site__footer--v1 desktop-footer light" role="contentinfo">
+        <footer id="colophon" class="site-footer site__footer--v1 desktop-footer dark" role="contentinfo">
             <div class="container">
                 <div class="footer-top-bar">
                     <div class="site-footer__logo footer-logo">
@@ -1083,34 +1177,34 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                     <stop offset="1" style="stop-color:#2C9CD4" /> </linearGradient>
                                 <g class="vodi-gr">
                                     <path class="vodi-svg0" d="M72.8,12.7c0-2.7,0-1.8,0-4.4c0-0.9,0-1.8,0-2.8C73,3,74.7,1.4,77,1.4c2.3,0,4.1,1.8,4.2,4.2c0,1,0,2.1,0,3.1
-c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
-c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
-c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
-M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
-C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
-C34.4,28.2,36.7,30.6,39.9,30.6z
-M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
-c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
-c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
-M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
-c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
-C90.9,25.1,90.9,25.1,90.9,25.1z
-M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
+																													c0,6.5,0,9.4,0,15.9c0,4.7-1.7,8.8-5.6,11.5c-4.5,3.1-9.3,3.5-14.1,0.9c-4.7-2.5-7.1-6.7-7-12.1c0.1-7.8,6.3-13.6,14.1-13.2
+																													c0.7,0,1.4,0.2,2.1,0.3C71.3,12.2,72,12.4,72.8,12.7z M67.8,19.8c-2.9,0-5.2,2.2-5.2,5c0,2.9,2.3,5.3,5.2,5.3
+																													c2.8,0,5.2-2.4,5.2-5.2C73,22.2,70.6,19.8,67.8,19.8z
+																													M39.9,38.6c-7.3,0-13.3-6.1-13.3-13.5c0-7.5,5.9-13.4,13.4-13.4c7.5,0,13.4,6,13.4,13.5
+																													C53.4,32.6,47.4,38.6,39.9,38.6z M39.9,30.6c3.2,0,5.6-2.3,5.6-5.6c0-3.2-2.3-5.5-5.5-5.5c-3.2,0-5.6,2.2-5.6,5.4
+																													C34.4,28.2,36.7,30.6,39.9,30.6z
+																													M14.6,27c0.6-1.4,1.1-2.6,1.6-3.8c1.2-2.9,2.5-5.8,3.7-8.8c0.7-1.7,2-2.8,4-2.7c3,0,4.9,2.6,3.8,5.4
+																													c-0.5,1.3-1.2,2.6-1.8,3.9c-2.4,5-4.9,10-7.3,15c-0.8,1.6-2,2.6-3.9,2.6c-2,0-3.3-0.8-4.2-2.6c-2.7-5.6-5.3-11.1-8-16.7
+																													c-0.3-0.7-0.6-1.3-0.9-2c-0.8-1.8-0.3-3.7,1.1-4.8c1.5-1.2,4-1.3,5.3,0c0.7,0.6,1.2,1.5,1.6,2.3C11.3,18.8,12.9,22.7,14.6,27z
+																													M90.9,25.1c0,3.1,0,6.2,0,9.4c0,1.9-1.2,3.4-2.9,4c-1.7,0.5-3.5,0-4.5-1.6c-0.5-0.8-0.8-1.8-0.8-2.6
+																													c-0.1-6.1-0.1-11.3,0-17.5c0-2.2,1.5-3.9,3.5-4.2c2.1-0.3,4.1,0.9,4.7,2.9c0.1,0.5,0.2,1.1,0.2,1.6C90.9,20,90.9,22.1,90.9,25.1
+																													C90.9,25.1,90.9,25.1,90.9,25.1z
+																													M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,91.5,5.5,90.2,4.7z" /> </g>
                             </svg>
                         </a>
                     </div>
                     <div class="footer-social-icons social-label">
                         <ul id="menu-footer-social-menu" class="social-icons">
                             <li class="menu-item menu-item-type-custom menu-item-object-custom social-media-item social-media-item-5164"><a title="
-" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-facebook-f social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Facebook</span></a></li>
+																													" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-facebook-f social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Facebook</span></a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom social-media-item social-media-item-5165"><a title="
-" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-twitter social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Twitter</span></a></li>
+																														" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-twitter social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Twitter</span></a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom social-media-item social-media-item-5166"><a title="
-" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-google-plus-g social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Google+</span></a></li>
+																															" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fab fa-google-plus-g social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Google+</span></a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom social-media-item social-media-item-5167"><a title="
-" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-globe social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Vimeo</span></a></li>
+																																" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-globe social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">Vimeo</span></a></li>
                             <li class="menu-item menu-item-type-custom menu-item-object-custom social-media-item social-media-item-5168"><a title="
-" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-rss social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">RSS</span></a></li>
+																																	" href="#" class="footer-social-icon"><span class="fa-stack"><i class="fas fa-circle fa-stack-2x"></i><i class="fas fa-rss social-media-item__icon fa-stack-1x fa-inverse" aria-hidden="true"></i> </span><span class="social-media-item__title">RSS</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -1121,16 +1215,16 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                 <div class="widget-header"><span class="widget-title">Movie Categories</span></div>
                                 <div class="menu-footer-movie-genres-container">
                                     <ul id="menu-footer-movie-genres" class="menu">
-                                        <li id="menu-item-5169" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5169"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/action/">Action</a></li>
-                                        <li id="menu-item-5170" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5170"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/adventure/">Adventure</a></li>
-                                        <li id="menu-item-5171" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5171"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/animation/">Animation</a></li>
-                                        <li id="menu-item-5172" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5172"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/comedy/">Comedy</a></li>
-                                        <li id="menu-item-5173" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5173"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/crime/">Crime</a></li>
-                                        <li id="menu-item-5174" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5174"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/drama/">Drama</a></li>
-                                        <li id="menu-item-5175" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5175"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/fantacy/">Fantacy</a></li>
-                                        <li id="menu-item-5176" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5176"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/horror/">Horror</a></li>
-                                        <li id="menu-item-5177" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5177"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/mystrey/">Mystrey</a></li>
-                                        <li id="menu-item-5178" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5178"><a title="                        " href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/romance/">Romance</a></li>
+                                        <li id="menu-item-5169" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5169"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/action/">Action</a></li>
+                                        <li id="menu-item-5170" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5170"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/adventure/">Adventure</a></li>
+                                        <li id="menu-item-5171" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5171"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/animation/">Animation</a></li>
+                                        <li id="menu-item-5172" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5172"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/comedy/">Comedy</a></li>
+                                        <li id="menu-item-5173" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5173"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/crime/">Crime</a></li>
+                                        <li id="menu-item-5174" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5174"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/drama/">Drama</a></li>
+                                        <li id="menu-item-5175" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5175"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/fantacy/">Fantacy</a></li>
+                                        <li id="menu-item-5176" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5176"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/horror/">Horror</a></li>
+                                        <li id="menu-item-5177" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5177"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/mystrey/">Mystrey</a></li>
+                                        <li id="menu-item-5178" class="menu-item menu-item-type-taxonomy menu-item-object-movie_genre menu-item-5178"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/movie-genre/romance/">Romance</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1140,15 +1234,15 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                 <div class="widget-header"><span class="widget-title">TV Series</span></div>
                                 <div class="menu-footer-tv-show-genres-container">
                                     <ul id="menu-footer-tv-show-genres" class="menu">
-                                        <li id="menu-item-5179" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5179"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/action/">Valentine Day</a></li>
-                                        <li id="menu-item-5180" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5180"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/adventure/">Underrated Comedies</a></li>
-                                        <li id="menu-item-5181" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5181"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/animation/">Scary TV Series</a></li>
-                                        <li id="menu-item-5183" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5183"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/comedy/">Best 2018 Documentaries</a></li>
-                                        <li id="menu-item-5182" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5182"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/biography/">Classic Shows</a></li>
-                                        <li id="menu-item-5184" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5184"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/crime/">Big TV Premieres</a></li>
-                                        <li id="menu-item-5185" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5185"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/crime-drama/">Reality TV Shows</a></li>
-                                        <li id="menu-item-5186" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5186"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/drama/">Original Shows</a></li>
-                                        <li id="menu-item-5187" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5187"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/fantacy/">Suprise of the Year Shows</a></li>
+                                        <li id="menu-item-5179" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5179"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/action/">Valentine Day</a></li>
+                                        <li id="menu-item-5180" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5180"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/adventure/">Underrated Comedies</a></li>
+                                        <li id="menu-item-5181" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5181"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/animation/">Scary TV Series</a></li>
+                                        <li id="menu-item-5183" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5183"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/comedy/">Best 2018 Documentaries</a></li>
+                                        <li id="menu-item-5182" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5182"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/biography/">Classic Shows</a></li>
+                                        <li id="menu-item-5184" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5184"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/crime/">Big TV Premieres</a></li>
+                                        <li id="menu-item-5185" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5185"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/crime-drama/">Reality TV Shows</a></li>
+                                        <li id="menu-item-5186" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5186"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/drama/">Original Shows</a></li>
+                                        <li id="menu-item-5187" class="menu-item menu-item-type-taxonomy menu-item-object-tv_show_genre menu-item-5187"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/tv-show-genre/fantacy/">Suprise of the Year Shows</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1158,11 +1252,11 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                 <div class="widget-header"><span class="widget-title">Support</span></div>
                                 <div class="menu-footer-support-links-container">
                                     <ul id="menu-footer-support-links" class="menu">
-                                        <li id="menu-item-5220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5220"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/blog/">My Account</a></li>
-                                        <li id="menu-item-5221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5221"><a title="                       " href="https://demo2.madrasthemes.com/vodi-demos/main/">FAQ</a></li>
-                                        <li id="menu-item-5222" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-382 current_page_item menu-item-5222"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/" aria-current="page">Watch on TV</a></li>
-                                        <li id="menu-item-5223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5223"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/home-v3/">Help Center</a></li>
-                                        <li id="menu-item-5224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a title="                      " href="https://demo2.madrasthemes.com/vodi-demos/main/home-v5/">Contact</a></li>
+                                        <li id="menu-item-5220" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5220"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/blog/">My Account</a></li>
+                                        <li id="menu-item-5221" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-343 current_page_item menu-item-5221"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/" aria-current="page">FAQ</a></li>
+                                        <li id="menu-item-5222" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5222"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v2/">Watch on TV</a></li>
+                                        <li id="menu-item-5223" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5223"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v3/">Help Center</a></li>
+                                        <li id="menu-item-5224" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5224"><a title="						" href="https://demo2.madrasthemes.com/vodi-demos/main/home-v5/">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -1176,7 +1270,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                         <div class="site-footer__info site-info"> Copyright &copy; 2019, Vodi. All Rights Reserved</div>
                         <ul id="menu-footer-quick-links" class="footer-quick-links nav">
                             <li id="menu-item-5251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5251"><a title="
-" href="https://demo2.madrasthemes.com/vodi-demos/main/contact/">Privacy Policy</a></li>
+																																		" href="https://demo2.madrasthemes.com/vodi-demos/main/contact/">Privacy Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1205,8 +1299,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                 <input type="email" class="masvideos-Input masvideos-Input--text input-text" name="email" id="reg_email" autocomplete="email" value="" />
                                             </p>
                                             <p class="masvideos-FormRow form-row">
-                                                <input type="hidden" id="masvideos-register-nonce" name="masvideos-register-nonce" value="3c207a96fe" />
-                                                <input type="hidden" name="_wp_http_referer" value="/vodi-demos/main/home-v2/" />
+                                                <input type="hidden" id="masvideos-register-nonce" name="masvideos-register-nonce" value="d860248e73" />
+                                                <input type="hidden" name="_wp_http_referer" value="/vodi-demos/main/" />
                                                 <button type="submit" class="masvideos-Button button" name="register" value="Register">Register</button>
                                             </p>
                                         </form>
@@ -1225,8 +1319,8 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
                                                 <input class="masvideos-Input masvideos-Input--text input-text" type="password" name="password" id="password" autocomplete="current-password" />
                                             </p>
                                             <p class="form-row">
-                                                <input type="hidden" id="masvideos-login-nonce" name="masvideos-login-nonce" value="66bea35338" />
-                                                <input type="hidden" name="_wp_http_referer" value="/vodi-demos/main/home-v2/" />
+                                                <input type="hidden" id="masvideos-login-nonce" name="masvideos-login-nonce" value="88ede220e0" />
+                                                <input type="hidden" name="_wp_http_referer" value="/vodi-demos/main/" />
                                                 <button type="submit" class="masvideos-Button button" name="login" value="Log in">Log in</button>
                                                 <label class="masvideos-form__label masvideos-form__label-for-checkbox inline">
                                                     <input class="masvideos-form__input masvideos-form__input-checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" /> <span>Remember me</span> </label>
@@ -1316,11 +1410,11 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
             v: 'ext',
             j: '1:7.3.1',
             blog: '162040229',
-            post: '382',
+            post: '343',
             tz: '5.5',
             srv: 'demo2.madrasthemes.com'
         }]);
-        _stq.push(['clickTrackerInit', '162040229', '382']);
+        _stq.push(['clickTrackerInit', '162040229', '343']);
     </script>
     <script>
         window.lazyLoadOptions = {
@@ -1382,7 +1476,7 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
         }, false);
     </script>
     <script data-no-minify="1" async src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/plugins/wp-rocket/assets/js/lazyload/11.0.6/lazyload.min.js"></script>
-    <script src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/cache/min/2/ab52fb27566d5386b543a649f4bf920f.js" data-minify="1" defer></script>
+    <script src="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/cache/min/2/a960806d5fa793be5eb5178a99f5012e.js" data-minify="1" defer></script>
     <noscript>
         <link rel="stylesheet" href="https://demo2.madrasthemes.com/vodi-demos/main/wp-content/cache/min/2/14bf4fdb966c77e06f48bf197a55ede2.css" data-minify="1" />
     </noscript>
@@ -1392,4 +1486,4 @@ M90.2,4.7L86,2.3c-1.3-0.8-3,0.2-3,1.7v4.8c0,1.5,1.7,2.5,3,1.7l4.2-2.4C91.5,7.4,9
 </body>
 
 </html>
-<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me -->
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1558613273 -->
